@@ -7,7 +7,7 @@ int main()
 
     //langkah 2
     cout << "Masukkan Panjang :";
-    cin >> lebar;
+    cin >> panjang;
 
     //langkah 3
     cout << "Masukkan Lebar :";
@@ -18,5 +18,5 @@ int main()
 
     //langkah 5
     cout << "Hasilnya :  " << luas;
-    
+
 } //selesai
